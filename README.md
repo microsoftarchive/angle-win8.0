@@ -3,6 +3,9 @@ Angle
 
 WinRT (Windows 8.0 and 8.1) and Windows Phone 8.0 contributions by Dale Stammen (https://github.com/stammen) and Steven Chith (https://github.com/steven-chith)
 
+If you are developing for Windows 8.1 or Windows Phone 8.1 then please see the version of ANGLE in the 'future-dev' branch of https://github.com/MSOpenTech/angle
+
+
 Angle Project (https://code.google.com/p/angleproject/) with support for Windows Store Apps (WinRT) and Windows Phone Apps (WP8). This version supports
 developing Windows Store Apps using Visual Studio 2013 and Windows 8.1. It is also possbile to develop a Windows Store App
 using Visual Studio 2012 and Windows 8.0 but this version will not be accepted in the Windows App Store.
